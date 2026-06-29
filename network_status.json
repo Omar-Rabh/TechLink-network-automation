@@ -1,0 +1,16 @@
+{
+    "HQ": {
+        "primary_link": "DOWN",
+        "backup_link": "UP"
+    },
+
+    "Alexandria": {
+        "primary_link": "UP",
+        "backup_link": "UP"
+    },
+
+    "Giza": {
+        "primary_link": "DOWN",
+        "backup_link": "UP"
+    }
+}
