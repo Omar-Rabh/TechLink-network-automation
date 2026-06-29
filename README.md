@@ -1,10 +1,18 @@
-### TechLink Solutions – Network Automation Project
+# 🚀 TechLink Solutions – Enterprise Network Automation
 
-Vodafone Technical Assessment – Transport Capacity Planning Engineer
+### Vodafone Technical Assessment
+### Transport Capacity Planning Engineer
+
+---
+
+Enterprise Multi-Branch Network Design using Cisco Packet Tracer and Python Automation.
+
 
                   ## Network Topology
                   
-![Topology](screenshots/Network_Topology.png)
+<p align="center">
+  <img src="screenshots/Network_Topology.png" width="900">
+</p>
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-green)
 ![Automation](https://img.shields.io/badge/Network-Automation-orange)
