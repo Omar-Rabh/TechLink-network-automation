@@ -13,15 +13,8 @@ Enterprise Multi-Branch Network Design using Cisco Packet Tracer and Python Auto
 <p align="center">
   <img src="screenshots/Network_Topology.png" width="900">
 </p>
-![Python](https://img.shields.io/badge/Python-3.x-blue)
 
-![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-red)
-
-![Automation](https://img.shields.io/badge/Network-Automation-green)
-
-![Routing](https://img.shields.io/badge/Static-Routing-orange)
-
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-red)  ![Automation](https://img.shields.io/badge/Network-Automation-green)  ![Routing](https://img.shields.io/badge/Static-Routing-orange)  ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ### Project Overview
 
